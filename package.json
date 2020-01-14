@@ -1,0 +1,19 @@
+{
+  "name": "ourmusic",
+  "version": "1.0.0",
+  "description": "Combine your and your friends' playlist together to get a personalized recommendation for your group and play them together on all the devices simultaneously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaybansal19/OurMusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaybansal19/OurMusic/issues"
+  },
+  "homepage": "https://github.com/udaybansal19/OurMusic#readme"
+}
